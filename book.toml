@@ -1,0 +1,6 @@
+[book]
+authors = ["jasongannon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "API Documentation: For Technical Writers and Developers"
