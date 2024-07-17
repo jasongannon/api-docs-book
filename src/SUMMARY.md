@@ -10,12 +10,12 @@
 
 # API Design Concepts
 
-- [API Design First]()
-- [API abstraction levels]()
-- [Designing for user needs]()
-- [Versioning strategies]()
-- [Error handling]()
-- [Rate limiting and throttling]()
+- [API Design First](api-design-concepts/api-design-first.md)
+- [API abstraction levels](api-design-concepts/api-abstraction.md)
+- [Designing for user needs](api-design-concepts/designing-for-user.md)
+- [Versioning strategies](api-design-concepts/versioning-strategies.md)
+- [Error handling](api-design-concepts/error-handling.md)
+- [Rate limiting and throttling](api-design-concepts/rate-limiting.md)
 
 # API Documentation Best Practices
 
