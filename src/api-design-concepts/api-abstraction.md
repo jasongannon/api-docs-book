@@ -97,7 +97,7 @@ POST /api/apply-for-loan
 3. System Complexity: Very complex systems might require higher abstraction to be manageable.
 4. Performance Requirements: Lower abstraction can offer better performance for certain operations.
 5. Flexibility Needs: Lower abstraction typically offers more flexibility for diverse use cases.
-6. Future-Proofing: Higher abstraction can make it easier to change the underlying system without affecting the API.
+6.  Future-Proofing: Higher abstraction can make it easier to change the underlying system without affecting the API.
 
 ### Implementing Different Abstraction Levels
 

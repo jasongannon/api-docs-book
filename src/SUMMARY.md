@@ -2,39 +2,35 @@
 
 [Introduction](README.md)
 
-# API Fundamentals
+- [API Fundamentals](fundamentals/README.md)
+    - [What is an API?](fundamentals/what-is-api.md)
+    - [Types of APIs](fundamentals/types-of-api.md)
+    - [API Architecture](fundamentals/api-architecture.md)
 
-- [What is an API?](fundamentals/what-is-api.md)
-- [Types of APIs](fundamentals/types-of-api.md)
-- [API Architecture](fundamentals/api-architecture.md)
+- [API Design Concepts](api-design-concepts/README.md)
+    - [API Design First](api-design-concepts/api-design-first.md)
+    - [API Abstraction Levels](api-design-concepts/api-abstraction.md)
+    - [Designing for User Needs](api-design-concepts/designing-for-user.md)
+    - [Versioning Strategies](api-design-concepts/versioning-strategies.md)
+    - [Error Handling](api-design-concepts/error-handling.md)
+    - [Rate Limiting and Throttling](api-design-concepts/rate-limiting.md)
 
-# API Design Concepts
+- [API Documentation Best Practices](api-documentation-best-practices/README.md)
+    - [Overview of API Documentation](api-documentation-best-practices/overview-api-documentation.md)
+    - [Types of API Documentation](api-documentation-best-practices/types-of-api-documentation.md)
+    - [Providing Descriptions](api-documentation-best-practices/providing-descriptions.md)
+    - [Providing Examples](api-documentation-best-practices/providing-examples.md)
+    - [Explaining Authentication](api-documentation-best-practices/explaining-authentication.md)
+    - [Explaining Error Messages](api-documentation-best-practices/explaining-error-messages.md)
 
-- [API Design First](api-design-concepts/api-design-first.md)
-- [API abstraction levels](api-design-concepts/api-abstraction.md)
-- [Designing for user needs](api-design-concepts/designing-for-user.md)
-- [Versioning strategies](api-design-concepts/versioning-strategies.md)
-- [Error handling](api-design-concepts/error-handling.md)
-- [Rate limiting and throttling](api-design-concepts/rate-limiting.md)
-
-# API Documentation Best Practices
-
-- [Overview of API documentation]()
-- [Types of API documentation]()
-- [Writing clear and concise descriptions]()
-- [Providing examples and use cases]()
-- [Explaining authentication methods]()
-- [Including error messages and troubleshooting]()
-
-# API Reference Documentation
-
-- [Endpoint descriptions]()
-- [Request methods]()
-- [Parameters]()
-- [Request examples]()
-- [Response formats and examples]()
-- [Status codes and error messages]()
-- [Data models and schemas]()
+- [API Reference Documentation](api-reference-documentation/README.md)
+    - [Endpoint descriptions](api-reference-documentation/endpoint-descriptions.md)
+    - [Request methods](api-reference-documentation/request-methods.md)
+    - [Parameters](api-reference-documentation/parameters/md)
+    - [Request examples](api-reference-documentation/request-examples.md)
+    - [Response formats and examples](api-reference-documentation/response-formats.md)
+    - [Status codes and error messages](api-reference-documentation/status-codes.md)
+    - [Data models and schemas](api-reference-documentation/data-models.md)
 
 # OpenAPI Specification
 
